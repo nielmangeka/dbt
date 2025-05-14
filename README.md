@@ -1,7 +1,3 @@
-Here’s a cleaner, more engaging, and professional version of your README that makes the project sound more appealing and accessible to others, especially data professionals or learners:
-
----
-
 # 🧠 dbt-learn
 
 ## 🚀 Introduction
