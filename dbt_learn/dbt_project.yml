@@ -33,4 +33,8 @@ models:
   dbt_learn:
     # Config indicated by + and applies to all files under models/example/
     example:
-      +materialized: view
+      +materialized: table
+    # staging:
+    #   +schema: staging
+    # mart:
+    #   +schema: mart
