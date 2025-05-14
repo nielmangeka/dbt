@@ -9,6 +9,8 @@ This is a small project to fill leisure time during holidays while also updating
     * Postgresdb
 
 2. Installation
+    ```markdown
+    a. dbt
     * You can refer to several sources for the installation process. In my case, I use DBT Core with the Postgres adapter. However, you should choose the adapter that best fits your specific needs and the data warehouse you are using. (Source: https://docs.getdbt.com/docs/core/pip-install#installing-the-adapter)
 
 2. Diagram
